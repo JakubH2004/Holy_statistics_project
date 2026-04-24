@@ -1,0 +1,43 @@
+Name,Year_CE,Year_AH,Type,Location,Latitude,Longitude,Context
+First Hijra Start,615,-7,Migration,Mecca,21.42,39.82,Followers flee persecution in Mecca
+Migration End: Massawa,615,-7,Migration,Massawa Port,15.6,39.45,Arrival in Africa (Abyssinia)
+Migration Stop: Jeddah,615,-7,Migration,Jeddah Port,21.48,39.19,Boarding ships for Africa
+Hijra End: Medina,622,1,Hijra,Medina,24.46,39.6,Establishment of the first Islamic state
+Hijra Start: Mecca,622,1,Hijra,Mecca,21.42,39.82,Main community migration to Medina
+Hijra Stop: Cave Thaur,622,1,Hijra,Cave Thaur,21.37,39.84,Hiding place during pursuit
+Hijra Stop: Quba,622,1,Hijra,Quba,24.43,39.61,First mosque built outside Medina
+Ghazwa of Al-Ushayrah,623,2,Ghazwa,Yanbu/Ushayrah,23.9,38.3,Interception of Abu Sufyan's caravan
+Ghazwa of Buwat,623,2,Ghazwa,Buwat,24.3,39.1,Economic pressure on Quraysh
+Ghazwa of Safwan (Badr 1),623,2,Ghazwa,Badr/Safwan,23.77,38.78,Pursuit of Kurz bin Jabir
+Ghazwa of Waddan (Abwa),623,2,Ghazwa,Al-Abwa,23.11,39.04,First expedition led by Muhammad
+Sariyyah of Hamza,623,1,Sariyyah,Al-Is,23.5,38.2,Caravan interception raid
+Sariyyah of Ubaydah,623,1,Sariyyah,Batn Rabigh,22.8,39.0,Caravan interception raid
+Battle of Badr (Badr 2),624,2,Ghazwa,Badr,23.77,38.78,Major decisive victory for Muslims
+Ghazwa of Bani Qaynuqa,624,2,Ghazwa,Medina,24.47,39.61,Siege of a Jewish tribe in Medina
+Ghazwa of Dhu Amarr,624,3,Ghazwa,Najd/Dhu Amarr,25.1,40.2,Pre-emptive strike against Ghatfan tribe
+Ghazwa of Sawiq,624,2,Ghazwa,Qarqarat al-Kudr,24.8,39.8,Chasing Abu Sufyan after Badr
+Sariyyah of Nakhla,624,2,Sariyyah,Nakhla,21.5,40.0,Intelligence gathering/Raid
+Battle of Uhud,625,3,Ghazwa,Mount Uhud,24.5,39.61,Major defensive battle against Quraysh
+Ghazwa of Bani Nadir,625,4,Ghazwa,Medina,24.47,39.61,Expulsion of Bani Nadir tribe
+Ghazwa of Hamra al-Asad,625,3,Ghazwa,Hamra al-Asad,24.3,39.5,Post-Uhud pursuit of Quraysh
+Ghazwa of Dhat al-Riqa,626,4,Ghazwa,Najd/Nakhl,25.5,41.0,Campaign against desert tribes
+Ghazwa of Dumat al-Jandal,626,5,Ghazwa,Jawf/Dumat,29.8,39.8,First reach into Northern Arabian borderlands
+Battle of the Trench (Khandaq),627,5,Ghazwa,Medina,24.47,39.61,Confederate siege of Medina
+Ghazwa of Bani Mustaliq,627,6,Ghazwa,Al-Muraysi,22.7,39.1,Pre-emptive strike against Bani Mustaliq
+Ghazwa of Bani Qurayza,627,5,Ghazwa,Medina,24.47,39.61,Punishment for betrayal during Trench siege
+Africa Return Start,628,7,Return,Axum,14.13,38.71,Emigrants return to join the state in Medina
+Battle of Khaybar,628,7,Ghazwa,Khaybar,25.7,39.3,Conquest of Northern Jewish oases
+Envoy to Al-Mundhir,628,7,Diplomatic,Bahrain,26.06,50.55,Invitation to Islam sent to Governor of Bahrain
+Envoy to Chosroes II,628,7,Diplomatic,Ctesiphon,33.09,44.58,Invitation to Islam sent to Sassanid Persian King
+Envoy to Heraclius,628,7,Diplomatic,Jerusalem/Gaza,31.76,35.21,Invitation to Islam sent to Byzantine Emperor
+Envoy to Muqawqis,628,7,Diplomatic,Alexandria,31.2,29.91,Invitation to Islam sent to Governor of Egypt
+Envoy to the Negus,628,7,Diplomatic,Axum,14.13,38.71,Invitation to Islam sent to King of Abyssinia
+Return End: Medina,628,7,Return,Medina,24.46,39.6,Reunion with the Muslim community
+Return Stop: Jar Port,628,7,Return,Al-Jar,23.51,38.83,Port of arrival in Arabia
+Treaty of Hudaybiya,628,6,Ghazwa,Al-Hudaybiya,21.4,39.6,Peace treaty with Mecca; pilgrimage attempt
+Battle of Mu'tah,629,8,Sariyyah,Mu'tah (Jordan),31.1,35.7,Conflict with Byzantine vassals
+Battle of Hunayn,630,8,Ghazwa,Hunayn Valley,21.3,40.2,Consolidation of power against Hawazin tribe
+Conquest of Mecca,630,8,Ghazwa,Mecca,21.42,39.82,Peaceful transition of power in Mecca
+Expedition of Tabuk,630,9,Ghazwa,Tabuk,28.38,36.56,Major mobilization against Byzantine threat
+Siege of Ta'if,630,8,Ghazwa,Ta'if,21.27,40.41,Pursuit of Thaqif tribe forces
+Sariyyah of Khalid (Yemen),631,10,Sariyyah,Najran/Yemen,17.49,44.12,Diplomatic/Military mission to the South
